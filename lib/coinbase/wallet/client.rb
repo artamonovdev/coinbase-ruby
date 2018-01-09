@@ -1,7 +1,7 @@
 module Coinbase
   module Wallet
     BASE_API_URL  = "https://api.coinbase.com"
-    API_VERSION   = '2015-06-16'
+    API_VERSION   = '2017-08-03'
 
     class Client < NetHTTPClient
       def initialize(options={})
