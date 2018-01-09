@@ -1,5 +1,5 @@
 module Coinbase
   module Wallet
-    VERSION = "4.1.3"
+    VERSION = "4.1.5"
   end
 end
